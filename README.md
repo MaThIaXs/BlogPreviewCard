@@ -32,7 +32,7 @@ Mobile Preview <br>
 
 ### Links
 
-- [FrontEnd Mentor Solution](https://your-solution-url.com)
+- [FrontEnd Mentor Solution](https://www.frontendmentor.io/solutions/blog-preview-card-h6m-rL-DtM)
 - [Live Site](https://blog-preview-card-one-gray.vercel.app)
 
 ## My process
