@@ -23,6 +23,11 @@ Users should be able to:
 
 ### Screenshot
 
+Desktop Preview <br>
+![Screenshot_1](https://github.com/MaThIaXs/BlogPreviewCard/assets/113397248/0638d449-c969-4ee7-9244-44747cb7e639)
+
+Mobile Preview <br>
+![Screenshot_2](https://github.com/MaThIaXs/BlogPreviewCard/assets/113397248/33055bbf-d1f3-43c8-aa00-0009823890e9)
 
 
 ### Links
