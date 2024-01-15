@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:wght@600;800&display=swap');
+
+:root {
+    --yellow: hsl(47, 88%, 63%);
+    --white: hsl(0, 0%, 100%);
+    --grey: hsl(0, 0%, 50%);
+    --black: hsl(0, 0%, 7%);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    max-width: 100vw;
+    min-height: 100vh;
+    background-color: var(--yellow);
+    font-family: 'Figtree', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+article {
+    background-color: var(--white);
+    border: 1px solid var(--black);
+    border-radius: 1.25rem;
+    padding: 1.2rem;
+    max-width: 22rem;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    box-shadow: 9px 9px 0px rgba(0, 0, 0, 1);
+}
+
+article .illustration {
+    border-radius: 1rem;
+    width: 100%;
+}
+
+article header .topic { 
+    background-color: var(--yellow);
+    padding: 5px 15px;
+    border-radius: 5px;
+    font-weight: 800;
+}
+
+article header .published {
+    margin-top: 1.3rem;
+    font-size: 0.85rem;
+    font-weight: 600;
+}
+
+article main .title {
+    font-size: 1.3rem;
+    transition: all .15s ease-in-out;
+}
+
+article main .title:hover {
+    cursor: pointer;
+    color: var(--yellow);
+}
+
+article main .description {
+    color: var(--grey);
+    font-size: 1rem;
+    margin-top: 1.3rem;
+}
+
+article footer {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+article footer .profile-picture {
+    max-width: 2.8rem;
+    cursor: pointer;
+}
+
+article footer .profile-name {
+    font-weight: 800;
+    font-size: 1.1rem;
+    cursor: pointer;
+}
+
+.attribution {
+    position: absolute;
+    bottom: 10px;
+}
+
+a:link {
+    color: var(--grey);
+}
+
+a:visited {
+    color: var(--black);
+}
