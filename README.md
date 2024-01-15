@@ -32,8 +32,8 @@ Mobile Preview <br>
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [FrontEnd Mentor Solution](https://your-solution-url.com)
+- [Live Site](https://blog-preview-card-one-gray.vercel.app)
 
 ## My process
 
